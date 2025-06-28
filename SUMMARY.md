@@ -1,4 +1,6 @@
 # Summary
 
 * [Home](Home.md)
-* [Features](Features.md)
+* [Blocks](Blocks.md)
+* [Items](Items.md)
+* [Decoration Blocks](DecorationBlocks.md)
